@@ -1,5 +1,6 @@
 **/.DS_Store
 
+##Agregar aquí todos los ficheros que no queramos que se comiteen. 
 ##Ignora este fichero y ya no aparecerá al poner en la termninal "git status".
 ##Aparecerá en su lugar ".gitignore".
 
