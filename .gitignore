@@ -1,0 +1,5 @@
+**/.DS_Store
+
+##Ignora este fichero y ya no aparecerá al poner en la termninal "git status".
+##Aparecerá en su lugar ".gitignore".
+
