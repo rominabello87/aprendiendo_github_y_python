@@ -1,2 +1,6 @@
 # aprendiendo_github_y_python
-Repositorio de aprendizaje 
+
+Aprendiendo Github y Python con ***Brais Moure***
+
+
+
