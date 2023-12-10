@@ -2,5 +2,5 @@
 
 Aprendiendo Github y Python con ***Brais Moure***
 
-
+Estoy segura de que aprenderé mucho de este curso. 
 
